@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">PreferenceSettings</string>
+    <string name="button_show_prefs_screen">Show Preferences Screen</string>
+    <string name="button_show_prefs_values">Show Preferences Values</string>
+
+    <string name="show_txt_heading">Preference Setting Values</string>
+    <string name="show_txt_password">Password :</string>
+    <string name="show_txt_screenlock">Screen Lock :</string>
+    <string name="show_txt_update_frequency">Update frequence :</string>
+    <string name="button_back">Back</string>
+
+    <string name="prefs_category_first">Settings</string>
+    <string name="prefs_category_second">Security Settings</string>
+    <string name="prefs_cat_first_password_title">Password</string>
+    <string name="prefs_cat_first_password_summary">Set your Password</string>
+
+    <string name="prefs_cat_second_checkbox_title">Screen Lock</string>
+    <string name="prefs_cat_second_checkbox_summary">Lock the screen with password</string>
+
+    <string name="prefs_cat_second_updatereminderlist_title">Reminder for Updation</string>
+    <string name="prefs_cat_second_updatereminderlist_summary">Set Update Reminder frequency</string>
+    <string-array name="update_entry">
+        <item>Once a day</item>
+        <item>Once a week</item>
+        <item>Once in a month</item>
+        <item>Once in 3 months</item>
+        <item>Once in 6 months</item>
+        <item>Once a year</item>
+        <item>Never(Done Manually)</item>
+    </string-array>
+        <string-array name="update_value">
+            <item>Once a day</item>
+            <item>Once a week</item>
+            <item>Once in a month</item>
+            <item>Once in 3 months</item>
+            <item>Once in 6 months</item>
+            <item>Once a year</item>
+        </string-array>
+</resources>
